@@ -4,6 +4,7 @@ Hey there 👋, my name is **Lucas Rodríguez** and I really like ✨ _creating 
 
 - 🧠 I study Computer Engineering at FIng, UdelaR since 2024.
 - 💼 I’m currently working as an IT technician at [Urudata S.A](https://urudata.com/).
+- 🌐 In my free time, I work for [Luthi](https://www.luthi.dev/) as a front-end developer.
 - 🤝 If you need help with OOP, logic or analysis, count with me; I enjoy working in those areas.
 - 📌 Check my website: [portfolio](https://lucasrodriguez.netlify.app/)
 - 📫 Get in touch with me: [linkedin](https://www.linkedin.com/in/lucas-rodr%C3%ADguez-de-pena/)
