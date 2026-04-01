@@ -1,16 +1,23 @@
-## Hi there 👋
+## Future Computer Engineer
 
-<!--
-**lucasrodriguez-dev/lucasrodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋, my name is **Lucas Rodríguez** and I really like ✨ _creating software_ ✨.
 
-Here are some ideas to get you started:
+- 🧠 I study Computer Engineering at FIng, UdelaR since 2024.
+- 💼 I’m currently working as an IT technician at Urudata S.A.
+- 🤝 If you need help with OOP, logic or analysis, count with me; I enjoy working in those areas.
+- 📌 Check my website: [portfolio](https://lucasrodriguez.netlify.app/)
+- 📫 Get in touch with me: [linkedin](https://www.linkedin.com/in/lucas-rodr%C3%ADguez-de-pena/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in several technologies, such as:
+- C, C++, Java, PHP, MySQL
+- Typescript, JavaScript, React, Astro, jQuery
+- HTML, CSS, Bootstrap, Tailwind
+
+But I am always open to learn something new. In fact, I am actually planning to start learning these technologies in the near future:
+- Python
+- PostgreSQL
+- Docker
+- Azure
+- VMWare
+
+🐧 I daily work using GNU/Linux systems. Besides, I often use VS Code for editing my code, taking advantage of its integrated AI 🤖.
