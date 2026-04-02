@@ -21,4 +21,4 @@ But I am always open to learn something new. In fact, I am actually planning to 
 - Azure
 - VMWare
 
-🐧 I daily work using GNU/Linux systems. Besides, I often use VS Code for editing my code, taking advantage of its integrated AI 🤖.
+🐧 I daily work using GNU/Linux systems. Besides, I use VS Code for editing my code, taking advantage of its integrated AI 🤖.
